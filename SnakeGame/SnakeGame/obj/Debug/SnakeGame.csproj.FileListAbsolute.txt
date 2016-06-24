@@ -1,0 +1,9 @@
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.Cache
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+D:\SPECIALISATION_SEMESTER\DotNet C#\Workspace\SnakeGame\SnakeGame\obj\Debug\SnakeGame.mainForm.resources
